@@ -1,0 +1,26 @@
+h1,
+h3,
+h2{
+    box-shadow: 10px; color:rgb(156, 156, 138)
+}
+img {
+    border-radius: 50%;
+}
+hr{
+    border-color: bisque;
+}
+p{
+    box-shadow: 10px; color: rgb(136, 136, 136);
+}
+a{
+    color: hsl(84, 14%, 64%);
+}
+html{
+    background-color: beige;
+}
+ul{
+    color: rgb(192, 161, 122);
+}
+h4{
+    color: rgb(192, 161, 122);
+}
